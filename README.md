@@ -1,5 +1,5 @@
 # LCP
-Lung Cancer Prediction Project
+Lung Cancer Prediction Project\n
 
 Problem Statement
 The objective of this project is to develop a machine learning model to 
